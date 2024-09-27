@@ -1,0 +1,22 @@
+.linkf{
+    padding: 150px 60px  150px 60px;
+}
+.linkf>div>ul{
+    list-style-type: none;
+    padding-top: 30px;
+}
+.linkf>div>ul>li{
+    color: darkslategray;
+    padding-top:10px ;
+}
+.linkf>div>span{
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: black;
+    padding-left: 30px;
+    text-align: center;
+}
+.linkf>.l>span{
+    margin-bottom: 40px;
+}

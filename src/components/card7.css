@@ -1,0 +1,42 @@
+.cardbody7{
+    list-style-type: none;
+}
+.card7{
+    padding-right: 0px;
+
+}
+.secondrow7{
+
+margin: 50px 0px 100px 0px;    
+
+
+}
+/* .card7{
+    padding: 50px;
+} */
+.navitem7{
+   padding: 20px 0px 20px 0px;
+   margin: 15px;
+    text-align: center;
+    background-color: white;
+}
+.c1{
+    width: 270px;
+    font-size: 20px;
+    font-weight: 700;
+    color: black;
+}
+.c1:hover{
+    font-size: 20px;
+    font-weight: 700;
+    color: aqua;
+
+}
+.c2{
+    font-weight: 500;
+}
+.navitem7>img{
+    height: 250px;
+    width: 250px;
+   
+}

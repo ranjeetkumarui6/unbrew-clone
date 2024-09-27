@@ -1,0 +1,45 @@
+.card6{
+    width: 90%;
+    height: 100%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    transition: 0.5s;
+    padding-top: 10px;
+    padding-left: 0px;
+    margin-left: 20px;
+    padding-bottom: 30px;
+}
+.card6:hover{
+    box-shadow: 1px 1px 3px 2px rgba(0,0,0,0.3);
+   
+}
+
+
+
+.img-card6{
+    font-size: 50px;
+    font-weight: 500;
+    color:darkcyan;
+    text-align: center;
+    align-items: center;
+
+}
+.img1{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+.card-content{
+    text-align: center;
+    justify-content: left;
+}
+.card-content6>.fw{
+    font-weight: 500;
+    font-size: 20px;
+}
+
+
+
+
+

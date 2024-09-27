@@ -1,0 +1,9 @@
+.f{
+        background-image: linear-gradient(to right,#1d24d8,rgb(101, 70, 140) );
+        height: 20vh;
+    
+}
+.footer{
+    padding-top: 50px;
+    text-align: center;
+}
